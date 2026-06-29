@@ -3,9 +3,21 @@
 ## DESCRIPTION:
 developed an automated batch mixing and filling system using WinCC HMI and SIEMENS PLC S7-300.
 
-## SOFTWARES USED:
+## TECHNOLOGIES USED:
 - SIMATIC MANAGER (STEP7)
 - LADDER LOGIC
+- Siemens PLC S7-300
+- Load cell integration
+- Industrial sensors
+-Converyor AUtomation
+
+## SKILLS DEMONSTRATED:
+-PLC programming
+-Industrial automation
+-Squential process control
+-Process Optimization
+-Industrial safety 
+-Troubleshooting
 
  ## FEATURES:
  - Automatic mixing
