@@ -30,12 +30,12 @@ The project controls tank filling, mixing sequence, conveyor movement, and produ
 . Ladder Logic
 
 ## SKILLS DEMONSTRATED:
-.PLC Programming
+. PLC Programming
 
-.HMI Development
+. HMI Development
 
-.Industrial Automation
+. Industrial Automation
 
-.Process Monitoring
+. Process Monitoring
 
-.Alarm Configuration
+. Alarm Configuration
